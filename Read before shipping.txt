@@ -1,0 +1,4 @@
+Player need to restore game file before changing from Translated to Localized and vice versa as some files are/n't localized/translated. 
+Bubbles need to be resized
+copy.unity3d existed in menu/title, GS1-3/BG
+title_textgs1u.unity3d is in GS1/BG despite the title in the name
