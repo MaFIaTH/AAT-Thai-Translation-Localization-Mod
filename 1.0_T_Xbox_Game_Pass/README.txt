@@ -11,8 +11,17 @@
 - การอ้างอิงทางวัฒนธรรม (Cultural Reference) อาจจะมีน้อยกว่าเวอร์ชั่น Localized
 - No Thailand No.1 ;(
 ----------------------------------------------------------------------
-วิธีการติดตั้ง:
-1. แตกไฟล์ PWAAT_Data ลงไปที่พิ้นที่ติดตั้งเกม Phoenix Wright: Ace Attorney Trilogy
+วิธีเตรียมการติดตั้งม็อด (.net และ MelonLoader):
+1. ดาวน์โหลดและติดตั้ง .net 6.0 จาก https://dotnet.microsoft.com/en-us/download/dotnet/6.0
+(ดาวน์โหลดเวอร์ชั่้น Build apps - SDK)
+2. ดาวน์โหลด MelonLoader Installer จาก https://github.com/HerpDerpinstine/MelonLoader/releases/latest/download/MelonLoader.Installer.exe
+3. เปิด MelonLoader.Installer.exe แล้วตรง Unity Game ให้กด Select แล้วไปที่พื้นที่ติดตั้งของเกม Phoenix Wright- Ace Attorney Trilogy
+4. เลือก gamelaunchhelper.exe จากนั้นกด Install
+5. เปิดเกมขึ้นมาแล้วเล่นจนกว่าหน้าเมนูหลักของเกมจะขึ้นมา
+6. ปิดเกม
+----------------------------------------------------------------------
+วิธีการติดตั้งม็อด
+1. แตกไฟล์ PWAAT_Data และ Mods ลงไปที่พิ้นที่ติดตั้งเกม Phoenix Wright: Ace Attorney Trilogy
 2. แทนที่ไฟล์ (Overwrite) ทั้งหมด (ถ้าไม่มีขึ้นมาให้แทนที่ไฟล์ อาจเป็นไปได้ว่าแตกไฟล์ลงผิดที่)
 3. พร้อมเล่น! เปิดเกมได้เลย ขอให้สนุกนะ!
 ----------------------------------------------------------------------
@@ -23,7 +32,7 @@
 ถ้ามั่นใจว่าเล่นจบแล้วก็ทำตามขั้นตอนการติดตั้งได้ตามปรกติ
 ----------------------------------------------------------------------
 วิธีถอนการติดตั้ง:
-- Verify integrity ของเกมผ่านทาง Game Launcher (Steam/GOG/Epic Games)
+- Verify integrity ของเกมผ่านทาง Game Launcher (Steam/GOG/Epic Games/Xbox)
 หรือถ้าไม่สำเร็จ
 - ลบและดาวน์โหลดเกมใหม่
 ----------------------------------------------------------------------
