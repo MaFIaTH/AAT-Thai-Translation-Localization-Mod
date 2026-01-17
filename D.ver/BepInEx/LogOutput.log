@@ -1,0 +1,32 @@
+[Message:   BepInEx] BepInEx 5.4.23.4 - PWAAT (1/17/2026 10:32:57 PM)
+[Info   :   BepInEx] Running under Unity v2017.4.8.5945332
+[Info   :   BepInEx] CLR runtime version: 2.0.50727.1433
+[Info   :   BepInEx] Supports SRE: True
+[Info   :   BepInEx] System platform: Windows
+[Message:   BepInEx] Preloader started
+[Info   :   BepInEx] Loaded 1 patcher method from [BepInEx.Preloader 5.4.23.4]
+[Info   :   BepInEx] 1 patcher plugin loaded
+[Info   :   BepInEx] Patching [UnityEngine.CoreModule] with [BepInEx.Chainloader]
+[Message:   BepInEx] Preloader finished
+[Warning:  HarmonyX] AccessTools.Property: Could not find property for type UnityEngine.Application and name isBatchMode
+[Message:   BepInEx] Chainloader ready
+[Message:   BepInEx] Chainloader started
+[Info   :   BepInEx] 1 plugin to load
+[Info   :   BepInEx] Loading [Ace Attorney Trilogy Thai Mod 1.0.0]
+[Info   :Ace Attorney Trilogy Thai Mod] Plugin com.translate_kordai.ace_attorney_trilogy_thai_mod is loaded!
+[Info   :Ace Attorney Trilogy Thai Mod] Translation Mode: Translated
+[Info   :   Console] Patching class: judgmentCtrl...
+[Info   :   Console] Patching method: judgmentCtrl.SetSprite...
+[Info   :   Console] Patching method: judgmentCtrl.SetSprite... Done
+[Info   :   Console] Patching method: judgmentCtrl.CoroutineUSA...
+[Info   :   Console] Patching method: judgmentCtrl.CoroutineUSA... Done
+[Info   :   Console] Patching class: judgmentCtrl... Done
+[Info   :   Console] Patching class: DyingMessageMiniGame...
+[Info   :   Console] Patching method: DyingMessageMiniGame._loadAssetBundle...
+[Info   :   Console] Patching method: DyingMessageMiniGame._loadAssetBundle... Done (skipped)
+[Info   :   Console] Patching class: DyingMessageMiniGame... Done
+[Info   :   Console] Patching class: DyingMessageUtil...
+[Info   :   Console] Patching class: DyingMessageUtil... Done
+[Info   :   Console] Patching class: autoPlayCtrl...
+[Info   :   Console] Patching class: autoPlayCtrl... Done
+[Message:   BepInEx] Chainloader startup complete
